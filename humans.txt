@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Shawn Kearney shawnpk29@me.com  @ShawnKearney29
 
 # THANKS
 
